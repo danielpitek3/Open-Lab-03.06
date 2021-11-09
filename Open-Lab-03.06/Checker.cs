@@ -11,7 +11,6 @@ namespace Open_Lab_03._06
                 if(str[i]==' '){
 
                     return true;
-                 
                 }
 			}
             return false;
