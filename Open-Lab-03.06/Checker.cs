@@ -6,8 +6,7 @@ namespace Open_Lab_03._06
     {
         public bool HasSpaces(string str)
         {
-            for (int i = 0; i < str.length; i++)
-			{
+            for (int i = 0; i < str.length; i++){
                 if(str[i]==' '){
 
                     return true;
